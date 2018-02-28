@@ -5,13 +5,11 @@ function Arrays() {
 }
 
 function destructivelyAppendKitten(name) {
-  var kittens = ["Milo", "Otis", "Garfield"];
   kittens.push(name);
   return kittens;
 }
 
 function destructivelyPrependKitten(name) {
-  var kittens = ["Milo", "Otis", "Garfield"];
   kittens.unshift(name);
   return kittens;
 }
