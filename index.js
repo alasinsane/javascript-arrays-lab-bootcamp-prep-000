@@ -8,4 +8,4 @@ function Arrays() {
   return kittens;
   }
 }
-destructivelyAppendKitten("Ralph");
+Arrays()("Ralph");
