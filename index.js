@@ -8,3 +8,4 @@ function Arrays() {
   return kittens;
   }
 }
+destructivelyAppendKitten("Ralph");
