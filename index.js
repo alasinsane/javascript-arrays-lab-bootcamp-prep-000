@@ -31,5 +31,5 @@ function appendKitten(name) {
 
 function prependKitten(name) {
   var lessKittens = [name, ...kittens];
-  return kittens;
+  return lessKittens;
 }
