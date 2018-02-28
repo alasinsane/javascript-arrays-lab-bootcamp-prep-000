@@ -8,4 +8,3 @@ function Arrays() {
   return kittens;
   }
 }
-Arrays()("Ralph");
